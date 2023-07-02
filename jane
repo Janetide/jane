@@ -1,0 +1,7 @@
+echo“#jane”>>README.md 
+git init 
+git add README.md 
+git commit -m“第一次提交” 
+git分支-M主
+git远程添加原点https://github.com/Janetide/jane.git
+ git推送- u 起源主要
